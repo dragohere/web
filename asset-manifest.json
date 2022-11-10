@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ironman/static/css/main.f5e1faa9.css",
-    "main.js": "/ironman/static/js/main.cc10a220.js",
-    "static/media/IronManTrailer.mp4": "/ironman/static/media/IronManTrailer.6e0c3dc9e5466eff4725.mp4",
-    "index.html": "/ironman/index.html",
-    "main.f5e1faa9.css.map": "/ironman/static/css/main.f5e1faa9.css.map",
-    "main.cc10a220.js.map": "/ironman/static/js/main.cc10a220.js.map"
+    "main.css": "/web/static/css/main.f5e1faa9.css",
+    "main.js": "/web/static/js/main.61f7deba.js",
+    "static/media/IronManTrailer.mp4": "/web/static/media/IronManTrailer.6e0c3dc9e5466eff4725.mp4",
+    "index.html": "/web/index.html",
+    "main.f5e1faa9.css.map": "/web/static/css/main.f5e1faa9.css.map",
+    "main.61f7deba.js.map": "/web/static/js/main.61f7deba.js.map"
   },
   "entrypoints": [
     "static/css/main.f5e1faa9.css",
-    "static/js/main.cc10a220.js"
+    "static/js/main.61f7deba.js"
   ]
 }
